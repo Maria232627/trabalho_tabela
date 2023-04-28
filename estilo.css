@@ -1,0 +1,8 @@
+table tr th, table tr td{
+    border: 0.3rem solid black;
+    width: 2rem;
+    height: 2rem;
+}
+table{
+    border-collapse: collapse;
+}
